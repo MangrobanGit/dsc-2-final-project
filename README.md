@@ -1,4 +1,3 @@
-# DSAF | Mod 2 Project
 ##  Pitch DS | Mando Iwanaga, Werlindo Mangrobang 
 
 ## Executive Summary
